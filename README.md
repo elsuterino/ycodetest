@@ -1,4 +1,4 @@
-## Preparing the instalation
+## Preparing the installation
 
 Setup a mysql database
 
@@ -13,7 +13,7 @@ DB_USERNAME=usersename
 DB_PASSWORD=password
 ```
 
-## Instalation
+## Installation
 
 ```
 composer install
@@ -32,5 +32,7 @@ php artisan db:seed
 ```
 php artisan serve
 ```
+
+## Testing
 
 to run tests use new laravels helper `php artisan test` or standart phpunit command
