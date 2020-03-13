@@ -1,4 +1,4 @@
-##Preparing the instalation
+## Preparing the instalation
 
 Setup a mysql database
 
@@ -13,7 +13,7 @@ DB_USERNAME=usersename
 DB_PASSWORD=password
 ```
 
-##Instalation
+## Instalation
 
 ```
 composer install
@@ -27,7 +27,7 @@ php artisan migrate
 php artisan db:seed
 ```
 
-##Run
+## Run
 
 ```
 php artisan serve
