@@ -35,4 +35,4 @@ php artisan serve
 
 ## Testing
 
-to run tests use new laravels helper `php artisan test` or standart phpunit command
+to run tests can use new laravels helper `php artisan test`
